@@ -21,7 +21,7 @@
 
     </form>
     <br>
-    <a href="index.php">Faça Login</a>
+    <a href="menu.php">Faça Login</a>
 
 </body>
 </html>
